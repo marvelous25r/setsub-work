@@ -1,0 +1,76 @@
+.rel{
+    height: 600px;
+    background-image: url(image/Water\ Drop\ Wallpapers\ \(6\).jpg);
+    padding-left: 160px;
+    padding-top: 60px;
+}
+.flex-container{
+    border: 2px red;
+    height: 550px;
+    width: 900px;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+
+}
+.flex-itemm{
+    display: flex;
+    padding-left: 50px;
+}
+.flex-item{
+    
+}
+.flex-item img{
+    height: 60px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+span.a{
+    font-weight: bolder;
+    padding-top: 120px;
+    padding-left: 110px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+span.b{
+    padding-left: 60px;
+}
+span.c{
+    padding-left: 60px;
+}
+span.b input{
+    height: 40px;
+    background-color: rgb(236, 234, 234);
+    border-radius: 20px;
+    width: 200px;
+}
+span.c input{
+    height: 40px;
+    background-color: rgb(236, 234, 234);
+    border-radius: 20px;
+    width: 200px;
+}
+button{
+    height: 40px;
+    width: 70px;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+span.d{
+    padding-left: 130px;
+}
+.secondiv{
+    padding-left: 80px;
+    font-weight: light;
+    font-family: sans-serif;
+}
+.thirdiv{
+     padding-left: 32px;
+     font-size: 15px;
+     font-weight: bold;
+     color: rgb(117, 113, 113);
+     font-family: sans-serif;
+}
